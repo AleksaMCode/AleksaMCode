@@ -7,7 +7,7 @@ I'm a Software Engineering student from Bosnia. Beside's programing, I enjoy fil
 
 ### Connect with me:
 [<img align="left" alt="AleksaMCode | Twitter" width="22px" src="https://github.com/AleksaMCode/AleksaMCode/blob/master/resources/twitter_logo.png?raw=true" />][twitter]
-[<img align="left" alt="AleksaMCode | Hackerrank" width="35px" src="https://github.com/AleksaMCode/AleksaMCode/blob/master/resources/hackerrank_logo.png?raw=true" />][hackerrank]
+[<img align="left" alt="AleksaMCode | Hackerrank" width="22px" src="https://github.com/AleksaMCode/AleksaMCode/blob/master/resources/hackerrank_logo.png?raw=true" />][hackerrank]
 
 <br />
 
