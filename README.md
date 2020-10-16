@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm a Software Engineering student from Bosnia. Beside's programing, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
+I'm a Software Engineering student from Bosnia. Besides programing, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
 - 💻 Third year student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
 - 📚 I'm currently learning about cybersecurity.
