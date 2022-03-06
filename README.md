@@ -17,10 +17,12 @@ I'm a Software Engineering student from Bosnia. Besides programing, I enjoy film
 <img align="left" alt="C#" title="C#" width="26px" src="./resources/c-sharp_logo.png?raw=true" />
 <img align="left" alt="Java" title="Java" width="26px" src="./resources/java_logo.png?raw=true" />
 <img align="left" alt="Linux Bash" title="Linux Bash" width="26px" src="./resources/linux-bash_logo.png?raw=true" />
-<img align="left" alt="Linux Bash" title="NASM" width="26px" src="./resources/asm.png" />
+<img align="left" alt="NASM" title="NASM" width="26px" src="./resources/asm.png?raw=true" />
+<img align="left" alt="Python" title="Python" width="26px" src="./resources/python_logo.svg?raw=true" />
+<img align="left" alt="MySql" title="NASM" width="26px" src="./resources/mysql_logo.png?raw=true" />
+<img align="left" alt="SQL Server" title="SQL server" width="26px" src="./resources/sql-server_logo.png?raw=true" />
 <img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="./resources/visual-studio_logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="./resources/visual-studio-code_logo.png?raw=true" />
-<img align="left" alt="SQL Server" title="SQL server" width="26px" src="./resources/sql-server_logo.png?raw=true" />
 <img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="26px" src="./resources/IntelliJ-IDEA_logo.png?raw=true" />
 <img align="left" alt="Eclipse" title="Eclipse" width="26px" src="./resources/eclipse_logo.png?raw=true" />
 <img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="26px" src="./resources/adobe-photoshop_logo.png?raw=true" />
