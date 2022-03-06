@@ -33,3 +33,6 @@ I'm a Software Engineering student from Bosnia. Besides programing, I enjoy film
 [twitter]: https://twitter.com/AleksaMCode
 [hackerrank]: https://www.hackerrank.com/AleksaMCode
 [aleksavscalories]: https://www.instagram.com/aleksavscalories
+
+<br><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=10)
