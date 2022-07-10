@@ -2,7 +2,7 @@
 I'm a Software Engineering student from Bosnia. Besides programing, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
 - 💻 Third year student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
-- <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on the daily basis.
+- <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
 - 📚 I'm currently learning about cybersecurity.
 - 📫 How to reach me: [@AleksaMCode][twitter]
 
