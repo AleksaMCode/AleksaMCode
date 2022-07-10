@@ -2,19 +2,23 @@
 I'm a Software Engineering student from Bosnia. Besides programing, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
 - 💻 Third year student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
+- <img align="left" width="20px" src="./resources/flash-cards.png?raw=true" /> &nbsp;Recently I find myself using <i>Anki</i> on the daily basis.
 - 📚 I'm currently learning about cybersecurity.
 - 📫 How to reach me: [@AleksaMCode][twitter]
 
 ### Connect with me:
-[<img align="left" alt="AleksaMCode | Twitter" title="Twitter" width="22px" src="./resources/twitter_logo.png?raw=true" />][twitter]
-[<img align="left" alt="AleksaMCode | Hackerrank" title="Hackerank" width="22px" src="./resources/hackerrank_logo.png?raw=true" />][hackerrank]
+<img align="left" alt="AleksaMCode | Twitter" title="Twitter" width="22px" src="./resources/twitter_logo.png?raw=true" />
+<img align="left" alt="AleksaMCode | Hackerrank" title="Hackerank" width="22px" src="./resources/hackerrank_logo.png?raw=true" />
+<img align="left" alt="AleksaMCode | LeetCode" title="LeetCode" width="24px" src="./resources/leetcode_logo.png?raw=true" />
+<img align="left" alt="AleksaMCode | Stack Overflow " title="Stack Overflow" width="18px" src="./resources/stack_overflow_logo.png?raw=true" />
 
-<br />
+<br>
+<br>
 
 ### Languages and Tools:
 <img align="left" alt="C" title="C" width="26px" src="./resources/c_logo.png?raw=true" />
 <img align="left" alt="C++" title="C++" width="26px" src="./resources/c-plus-plus_logo.png?raw=true" />
-<img align="left" alt="C#" title="C#" width="26px" src="./resources/c-sharp_logo.png?raw=true" />
+<img align="left" alt="C#" title="C#" width="24px" src="./resources/c-sharp_logo.png?raw=true" />
 <img align="left" alt="Java" title="Java" width="26px" src="./resources/java_logo.png?raw=true" />
 <img align="left" alt="Linux Bash" title="Linux Bash" width="26px" src="./resources/linux-bash_logo.png?raw=true" />
 <img align="left" alt="NASM" title="NASM" width="26px" src="./resources/asm.png?raw=true" />
