@@ -7,12 +7,10 @@ I'm a Software Engineering student from Bosnia. Besides programing, I enjoy film
 - 📫 How to reach me: [@AleksaMCode][twitter]
 
 ### Connect with me:
-<img align="left" alt="AleksaMCode | Twitter" title="Twitter" width="22px" src="./resources/twitter_logo.png?raw=true" />
-<img align="left" alt="AleksaMCode | Hackerrank" title="Hackerank" width="22px" src="./resources/hackerrank_logo.png?raw=true" />
-<img align="left" alt="AleksaMCode | LeetCode" title="LeetCode" width="24px" src="./resources/leetcode_logo.png?raw=true" />
-<img align="left" alt="AleksaMCode | Stack Overflow " title="Stack Overflow" width="18px" src="./resources/stack_overflow_logo.png?raw=true" />
-
-<br>
+[<img align="left" alt="AleksaMCode | Twitter" title="Twitter" width="22px" src="./resources/twitter_logo.png?raw=true" />][twitter]
+[<img align="left" alt="AleksaMCode | Hackerrank" title="Hackerank" width="22px" src="./resources/hackerrank_logo.png?raw=true" />][hackerrank]
+[<img align="left" alt="AleksaMCode | LeetCode" title="LeetCode" width="30px" src="./resources/leetcode_logo.png?raw=true" />][leetcode]
+[<img align="left" alt="AleksaMCode | Stack Overflow " title="Stack Overflow" width="20px" src="./resources/stack_overflow_logo.png?raw=true" />][stackoverlow]
 <br>
 
 ### Languages and Tools:
@@ -35,8 +33,10 @@ I'm a Software Engineering student from Bosnia. Besides programing, I enjoy film
 <img align="left" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" width="26px" src="./resources/adobe-premiere-pro_logo.png?raw=true" />
 
 [twitter]: https://twitter.com/AleksaMCode
+[leetcode]: https://leetcode.com/aleksamcode
 [hackerrank]: https://www.hackerrank.com/AleksaMCode
 [aleksavscalories]: https://www.instagram.com/aleksavscalories
+[stackoverlow]: https://stackoverflow.com/users/9917714/aleksa-majkic
 
 <br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=10)
