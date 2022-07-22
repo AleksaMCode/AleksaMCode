@@ -1,3 +1,5 @@
+<img width="35%" align="right" alt="Github" src="./resources/developer.gif" />
+
 ### Hi 👋
 I'm a Software Engineering student from Bosnia. Besides programing, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
@@ -26,6 +28,7 @@ I'm a Software Engineering student from Bosnia. Besides programing, I enjoy film
 <img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="./resources/visual-studio_logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="./resources/visual-studio-code_logo.png?raw=true" />
 <img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="26px" src="./resources/IntelliJ-IDEA_logo.png?raw=true" />
+<img align="left" alt="PyCharm" title="PyCharm" width="26px" src="./resources/py-charm_logo.svg?raw=true" />
 <img align="left" alt="Eclipse" title="Eclipse" width="26px" src="./resources/eclipse_logo.png?raw=true" />
 <img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="26px" src="./resources/adobe-photoshop_logo.png?raw=true" />
 <img align="left" alt="Adobe Lightroom" title="Adobe Lightroom" width="26px" src="./resources/adobe-lightroom_logo.png?raw=true" />
