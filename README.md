@@ -3,6 +3,7 @@
 ### Hi 👋
 I'm a Software Engineering student from Bosnia. Besides programing, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
+- 🔨 At the moment I'm working on steganography tool that will allow users to deploy Canary trap.
 - 💻 Third year student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
 - 📚 I'm currently learning about cybersecurity.
@@ -25,6 +26,8 @@ I'm a Software Engineering student from Bosnia. Besides programing, I enjoy film
 <img align="left" alt="Python" title="Python" width="26px" src="./resources/python_logo.svg?raw=true" />
 <img align="left" alt="MySql" title="MySql" width="26px" src="./resources/mysql_logo.png?raw=true" />
 <img align="left" alt="SQL Server" title="SQL server" width="26px" src="./resources/sql-server_logo.png?raw=true" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="26px" src="./resources/postgresql_logo.svg?raw=true" />
+<img align="left" alt="SQLite" title="SQLite" width="26px" src="./resources/sqlite-logo.svg?raw=true" />
 <img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="./resources/visual-studio_logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="./resources/visual-studio-code_logo.png?raw=true" />
 <img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="26px" src="./resources/IntelliJ-IDEA_logo.png?raw=true" />
