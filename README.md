@@ -1,12 +1,14 @@
 <img width="35%" align="right" alt="Github" src="./resources/developer.gif" />
 
 ### Hi 👋
-I'm a Software Engineering student from Bosnia. Besides programing, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
+I'm a Software Engineering student from Bosnia. Besides programming, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
 - 🔨 At the moment I'm working on steganography tool that will allow users to deploy Canary trap.
 - 💻 Student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
+- 📚 Do you have a book recommendation? Send me a <a href="https://www.goodreads.com/aleksamcode">pm</a>.
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
-- 📚 I'm currently learning about cybersecurity.
+- 🖥️ Interested in working with me? Check out my <a href="https://bit.ly/3UuiGaF">CV</a>.
+- 🔒 I'm currently learning about cybersecurity.
 - 📫 How to reach me: [@AleksaMCode][twitter]
 
 ### Connect with me:
@@ -29,8 +31,9 @@ I'm a Software Engineering student from Bosnia. Besides programing, I enjoy film
 <img align="left" alt="MySql" title="MySql" width="26px" src="./resources/mysql_logo.png?raw=true" />
 <img align="left" alt="SQL Server" title="SQL server" width="26px" src="./resources/sql-server_logo.png?raw=true" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="26px" src="./resources/postgresql_logo.svg?raw=true" />
-<img align="left" alt="SQLite" title="SQLite" width="26px" src="./resources/sqlite-logo.svg?raw=true" /> 
-<img align="left" alt="MySql Workbench" title="MySql Workbench" width="26px" src="./resources/mysql_workbench_logo.png?raw=true" /> <br><br>
+<img align="left" alt="SQLite" title="SQLite" width="26px" src="./resources/sqlite-logo.svg?raw=true" />
+<img align="left" alt="MySql Workbench" title="MySql Workbench" width="26px" src="./resources/mysql_workbench_logo.png?raw=true" />
+<br><br>
 </div>
 <div class="row">
 <img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="./resources/visual-studio_logo.png?raw=true" />
@@ -41,7 +44,9 @@ I'm a Software Engineering student from Bosnia. Besides programing, I enjoy film
 <img align="left" alt="Sublime Text" title="Sublime Text" width="26px" src="./resources/sublime_text_logo.png?raw=true" />
 <img align="left" alt="Wireshark" title="Wireshark" width="26px" src="./resources/wireshark_logo.png?raw=true" /> 
 <img align="left" alt="GNS3" title="GNS3" width="20px" src="./resources/gns3_logo.png?raw=true" /> 
-<img align="left" alt="Eve-ng" title="Eve-ng" width="26px" src="./resources/eve-ng_logo.png?raw=true" /> 
+<img align="left" alt="Eve-ng" title="Eve-ng" width="26px" src="./resources/eve-ng_logo.png?raw=true" />
+<img align="left" alt="Postman" title="Postman" width="26px" src="./resources/postman_logo.png?raw=true" />
+<img align="left" alt="Insomnia" title="Insomnia" width="26px" src="./resources/insomnia_logo.png?raw=true" />
 <br><br>
 </div>
 <div class="row">
