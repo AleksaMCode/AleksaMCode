@@ -7,7 +7,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 - 💻 Student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
 - 📚 Do you have a book recommendation? Send me a <a href="https://www.goodreads.com/aleksamcode">pm</a>.
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
-- 🖥️ Interested in working with me? Check out my <a href="https://bit.ly/3UuiGaF">CV</a>.
+- 🤝 Interested in working with me? Check out my <a href="https://bit.ly/3UuiGaF">CV</a>.
 - 🔒 I'm currently learning about cybersecurity.
 - 📫 How to reach me: [@AleksaMCode][twitter]
 
