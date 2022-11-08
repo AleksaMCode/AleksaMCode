@@ -75,4 +75,4 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 [stackoverlow]: https://stackoverflow.com/users/9917714/aleksa-majkic
 
 <br><br><br>
-![Top Langs](https://github-readme-stats-aleksamcode.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=11)
+![Top Langs](https://github-readme-stats-aleksamcode.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=10)
