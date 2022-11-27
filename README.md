@@ -65,6 +65,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <a href="https://www.credly.com/badges/43b75eb3-634f-47d7-9c51-5a7302378d76"><img align="left" alt="CISCO Endpoint Security" title="CISCO Endpoint Security" width="26px" src="./resources/cisco-endpoint-security.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/6a278b56-a106-44d3-87da-0e7257f5f600"><img align="left" alt="CISCO Networking Basics" title="CISCO Networking Basics" width="26px" src="./resources/cisco-networking-basics.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/d1f8a13e-fdae-4a16-b305-3872250aa4ae"><img align="left" alt="CISCO Introduction to IoT" title="CISCO Introduction to IoT" width="26px" src="./resources/cisco-introduction-to-IoT.png?raw=true" /></a>
+<a href="https://www.credly.com/badges/073ca710-8f94-4669-ad65-1fb73d9ef04b"><img align="left" alt="IBM Cybersecurity Fundamentals" title="IBM Cybersecurity Fundamentals" width="26px" src="./resources/ibm-cybersecurity-fundamentals.webp?raw=true" /></a>
 
 
 
