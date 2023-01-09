@@ -66,8 +66,12 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <a href="https://www.credly.com/badges/6a278b56-a106-44d3-87da-0e7257f5f600"><img align="left" alt="CISCO Networking Basics" title="CISCO Networking Basics" width="26px" src="./resources/cisco-networking-basics.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/d1f8a13e-fdae-4a16-b305-3872250aa4ae"><img align="left" alt="CISCO Introduction to IoT" title="CISCO Introduction to IoT" width="26px" src="./resources/cisco-introduction-to-IoT.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/073ca710-8f94-4669-ad65-1fb73d9ef04b"><img align="left" alt="IBM Cybersecurity Fundamentals" title="IBM Cybersecurity Fundamentals" width="26px" src="./resources/ibm-cybersecurity-fundamentals.webp?raw=true" /></a>
-
-
+<a href="https://www.credly.com/badges/073ca710-8f94-4669-ad65-1fb73d9ef04b"><img align="left" alt="IBM Blockchain Essentials" title="IBM Blockchain Essentials" width="26px" src="./resources/ibm-blockchain-essentials-v2.png?raw=true"/></a>
+<br><br>
+### Paper:
+<ul>
+<li><a href="https://www.academia.edu/94404529/Analiza_M_M_c_sistema">Analysis of M/M/c system</a></li>
+</ul>
 
 [twitter]: https://twitter.com/AleksaMCode
 [leetcode]: https://leetcode.com/aleksamcode
@@ -75,5 +79,5 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 [aleksavscalories]: https://www.instagram.com/aleksavscalories
 [stackoverlow]: https://stackoverflow.com/users/9917714/aleksa-majkic
 
-<br><br><br>
+<br><br>
 ![Top Langs](https://github-readme-stats-4gbrsb1iy-aleksamcode.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=10)
