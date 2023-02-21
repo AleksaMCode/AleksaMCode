@@ -46,6 +46,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <img align="left" alt="Eve-ng" title="Eve-ng" width="26px" src="./resources/eve-ng_logo.png?raw=true" />
 <img align="left" alt="Postman" title="Postman" width="26px" src="./resources/postman_logo.png?raw=true" />
 <img align="left" alt="Insomnia" title="Insomnia" width="26px" src="./resources/insomnia_logo.png?raw=true" />
+<img align="left" alt="Yakindu SCT" title="Yakindu SCT" width="26px" src="./resources/yakindu-sct_logo.png?raw=true" />
 <br><br>
 </div>
 <div class="row">
