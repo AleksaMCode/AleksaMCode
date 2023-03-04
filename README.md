@@ -62,6 +62,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 ### Certification:
 <a href="https://drive.google.com/file/d/1BtbJXdu0yBsyvTv1dlHnLyIyihR4hz4R/view"><img align="left" alt="NSE1" title="NSE1" width="26px" src="./resources/NSE1-Certification.png?raw=true" /></a>
 <a href="https://drive.google.com/file/d/1zvGrx6D_MMOeskZ3q-G6QF83XL3JhPZT/view"><img align="left" alt="NSE2" title="NSE2" width="26px" src="./resources/NSE2-Certification.png?raw=true" /></a>
+<a href="https://drive.google.com/file/d/12fErCvVcz1Rxe2I1qmLj0CkyK68g0uja/view"><img align="left" alt="NSE3" title="NSE2" width="26px" src="./resources/NSE3-Certification.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/ba534370-bd58-4322-a068-2519cf0115ac"><img align="left" alt="CISCO Introduction to Cybersecurity" title="CISCO Introduction to Cybersecurity" width="26px" src="./resources/cisco-introduction-to-cybersecurity.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/43b75eb3-634f-47d7-9c51-5a7302378d76"><img align="left" alt="CISCO Endpoint Security" title="CISCO Endpoint Security" width="26px" src="./resources/cisco-endpoint-security.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/6a278b56-a106-44d3-87da-0e7257f5f600"><img align="left" alt="CISCO Networking Basics" title="CISCO Networking Basics" width="26px" src="./resources/cisco-networking-basics.png?raw=true" /></a>
