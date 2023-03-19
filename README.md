@@ -22,11 +22,12 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <div class="row">
 <img align="left" alt="C" title="C" width="26px" src="./resources/c_logo.png?raw=true" />
 <img align="left" alt="C++" title="C++" width="26px" src="./resources/c-plus-plus_logo.png?raw=true" />
-<img align="left" alt="C#" title="C#" width="24px" src="./resources/c-sharp_logo.png?raw=true" />
+<img align="left" alt="C#" title="C#" width="23.5px" src="./resources/c-sharp_logo.png?raw=true" />
 <img align="left" alt="Java" title="Java" width="26px" src="./resources/java_logo.png?raw=true" />
 <img align="left" alt="Linux Bash" title="Linux Bash" width="26px" src="./resources/linux-bash_logo.png?raw=true" />
 <img align="left" alt="NASM" title="NASM" width="26px" src="./resources/asm.png?raw=true" />
 <img align="left" alt="Python" title="Python" width="26px" src="./resources/python_logo.svg?raw=true" />
+<img align="left" alt="Javascript" title="Javascript" width="26px" src="./resources/javascript_logo.png?raw=true" />
 <img align="left" alt="MySql" title="MySql" width="26px" src="./resources/mysql_logo.png?raw=true" />
 <img align="left" alt="SQL Server" title="SQL server" width="26px" src="./resources/sql-server_logo.png?raw=true" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="26px" src="./resources/postgresql_logo.svg?raw=true" />
