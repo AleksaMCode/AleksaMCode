@@ -11,10 +11,10 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 - 📫 How to reach me: [@AleksaMCode][twitter]
 
 ### Connect with me:
-[<img align="left" alt="AleksaMCode | Twitter" title="Twitter" width="22px" src="./resources/twitter_logo.png?raw=true" />][twitter]
-[<img align="left" alt="AleksaMCode | Hackerrank" title="Hackerank" width="22px" src="./resources/hackerrank_logo.png?raw=true" />][hackerrank]
-[<img align="left" alt="AleksaMCode | LeetCode" title="LeetCode" width="30px" src="./resources/leetcode_logo.png?raw=true" />][leetcode]
-[<img align="left" alt="AleksaMCode | Stack Overflow " title="Stack Overflow" width="20px" src="./resources/stack_overflow_logo.png?raw=true" />][stackoverlow]
+[<img align="middle" alt="AleksaMCode | Twitter" title="Twitter" width="22px" src="./resources/twitter_logo.png?raw=true" />][twitter]
+[<img align="middle" alt="AleksaMCode | Hackerrank" title="Hackerank" width="22px" src="./resources/hackerrank_logo.png?raw=true" />][hackerrank]
+[<img align="middle" alt="AleksaMCode | LeetCode" title="LeetCode" width="30px" src="./resources/leetcode_logo.png?raw=true" />][leetcode]
+[<img align="middle" alt="AleksaMCode | Stack Overflow " title="Stack Overflow" width="19px" src="./resources/stack_overflow_logo.png?raw=true" />][stackoverlow]
 <br>
 
 ### Languages and Tools:
