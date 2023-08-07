@@ -7,7 +7,8 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 - 💻 Student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
 - 📚 Do you have a book recommendation? Send me a <a href="https://www.goodreads.com/aleksamcode">pm</a>.
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
-- 🔒 I'm currently learning about cybersecurity.
+- 🔒 I'm passionate about cybersecurity.
+- 📡 Currenly I'm working @ [CERN](https://home.cern/) on a Digital Memory project.
 - 📫 How to reach me: [@AleksaMCode][twitter]
 
 ### Connect with me:
@@ -27,7 +28,10 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <img align="left" alt="Linux Bash" title="Linux Bash" width="26px" src="./resources/linux-bash_logo.png?raw=true" />
 <img align="left" alt="NASM" title="NASM" width="26px" src="./resources/asm.png?raw=true" />
 <img align="left" alt="Python" title="Python" width="26px" src="./resources/python_logo.svg?raw=true" />
+<img align="left" alt="FastAPI" title="FastAPI" width="26px" src="./resources/fast-api_logo.png?raw=true" />
+<img align="left" alt="Django" title="Django" width="20px" src="./resources/django_logo.png?raw=true" />
 <img align="left" alt="Javascript" title="Javascript" width="26px" src="./resources/javascript_logo.png?raw=true" />
+<img align="left" alt="React" title="React" width="26px" src="./resources/react_logo.png?raw=true" />
 <img align="left" alt="MySql" title="MySql" width="26px" src="./resources/mysql_logo.png?raw=true" />
 <img align="left" alt="SQL Server" title="SQL server" width="26px" src="./resources/sql-server_logo.png?raw=true" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="26px" src="./resources/postgresql_logo.svg?raw=true" />
@@ -40,6 +44,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="./resources/visual-studio-code_logo.png?raw=true" />
 <img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="26px" src="./resources/IntelliJ-IDEA_logo.png?raw=true" />
 <img align="left" alt="PyCharm" title="PyCharm" width="26px" src="./resources/py-charm_logo.svg?raw=true" />
+<img align="left" alt="Vim" title="Vim" width="26px" src="./resources/vim_logo.svg" />
 <img align="left" alt="Eclipse" title="Eclipse" width="26px" src="./resources/eclipse_logo.png?raw=true" />
 <img align="left" alt="Sublime Text" title="Sublime Text" width="26px" src="./resources/sublime_text_logo.png?raw=true" />
 <img align="left" alt="Wireshark" title="Wireshark" width="26px" src="./resources/wireshark_logo.png?raw=true" /> 
