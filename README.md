@@ -8,7 +8,6 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 - 📚 Do you have a book recommendation? Send me a <a href="https://www.goodreads.com/aleksamcode">pm</a>.
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
 - 🔒 I'm passionate about cybersecurity.
-- 📡 Currenly I'm working @ [CERN](https://home.cern/) on a Digital Memory project.
 - 📫 How to reach me: [@AleksaMCode][twitter]
 
 ### Connect with me:
@@ -53,6 +52,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <img align="left" alt="Postman" title="Postman" width="26px" src="./resources/postman_logo.png?raw=true" />
 <img align="left" alt="Insomnia" title="Insomnia" width="26px" src="./resources/insomnia_logo.png?raw=true" />
 <img align="left" alt="Yakindu SCT" title="Yakindu SCT" width="26px" src="./resources/yakindu-sct_logo.png?raw=true" />
+<img align="left" alt="Ghidra" title="Ghidra" width="26px" src="./resources/ghidra_logo.svg?raw=true" />
 <br><br>
 </div>
 <div class="row">
@@ -68,6 +68,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 ### Certification:
 <a href="https://drive.google.com/file/d/1BtbJXdu0yBsyvTv1dlHnLyIyihR4hz4R/view"><img align="left" alt="NSE1" title="NSE1" width="26px" src="./resources/NSE1-Certification.png?raw=true" /></a>
 <a href="https://drive.google.com/file/d/1zvGrx6D_MMOeskZ3q-G6QF83XL3JhPZT/view"><img align="left" alt="NSE2" title="NSE2" width="26px" src="./resources/NSE2-Certification.png?raw=true" /></a>
+<a href="https://drive.google.com/file/d/1zvGrx6D_MMOeskZ3q-G6QF83XL3JhPZT/view"><img align="left" alt="Fortinet Certified Fundamentals Cybersecurity" title="Fortinet Certified Fundamentals Cybersecurity" width="26px" src="./resources/Fortinet_Certified_Fundamentals_Cybersecurity-Certification.png?raw=true" /></a>
 <a href="https://drive.google.com/file/d/12fErCvVcz1Rxe2I1qmLj0CkyK68g0uja/view"><img align="left" alt="NSE3" title="NSE3" width="26px" src="./resources/NSE3-Certification.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/ba534370-bd58-4322-a068-2519cf0115ac"><img align="left" alt="CISCO Introduction to Cybersecurity" title="CISCO Introduction to Cybersecurity" width="26px" src="./resources/cisco-introduction-to-cybersecurity.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/43b75eb3-634f-47d7-9c51-5a7302378d76"><img align="left" alt="CISCO Endpoint Security" title="CISCO Endpoint Security" width="26px" src="./resources/cisco-endpoint-security.png?raw=true" /></a>
@@ -76,9 +77,15 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <a href="https://www.credly.com/badges/073ca710-8f94-4669-ad65-1fb73d9ef04b"><img align="left" alt="IBM Cybersecurity Fundamentals" title="IBM Cybersecurity Fundamentals" width="26px" src="./resources/ibm-cybersecurity-fundamentals.webp?raw=true" /></a>
 <a href="https://courses.yl-ptech.skillsnetwork.site/certificates/afdeb6169a014678accd04b912fdbab8"><img align="left" alt="IBM Blockchain Essentials" title="IBM Blockchain Essentials" width="26px" src="./resources/ibm-blockchain-essentials-v2.png?raw=true"/></a>
 <br><br>
-### Paper:
+### Publications:
+#### English
 <ul>
-<li><a href="https://www.academia.edu/94404529/Analiza_M_M_c_sistema">Analysis of M/M/c systems</a></li>
+<li><a href="https://cds.cern.ch/record/2874956">CERN Digital Memory Platform CERNBox file(s) upload integration</a></li>
+</ul>
+
+#### Serbian
+<ul>
+<li><a href="https://www.academia.edu/94404529/Analiza_M_M_c_sistema">Analiza M/M/c sistema</a> (Analysis of M/M/c systems)</li>
 </ul>
 
 [twitter]: https://twitter.com/AleksaMCode
