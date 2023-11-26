@@ -3,21 +3,21 @@
 ### Hi 👋
 I'm a Software Engineering student from Bosnia. Besides programming, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
-- 🔨 At the moment I'm working on steganography tool that will allow users to deploy Canary trap.
+- 🔨 At the moment, I'm working on a steganography tool that will allow users to deploy a Canary trap.
 - 💻 Student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
 - 📚 Do you have a book recommendation? Send me a <a href="https://www.goodreads.com/aleksamcode">pm</a>.
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
 - 🔒 I'm passionate about cybersecurity.
 - 📫 How to reach me: [@AleksaMCode][twitter]
 
-### Connect with me:
+### 🌐 Connect with me:
 [<img align="middle" alt="AleksaMCode | Twitter" title="Twitter" width="22px" src="./resources/twitter_logo.png?raw=true" />][twitter]
 [<img align="middle" alt="AleksaMCode | Hackerrank" title="Hackerank" width="22px" src="./resources/hackerrank_logo.png?raw=true" />][hackerrank]
-[<img align="middle" alt="AleksaMCode | LeetCode" title="LeetCode" width="30px" src="./resources/leetcode_logo.png?raw=true" />][leetcode]
-[<img align="middle" alt="AleksaMCode | Stack Overflow " title="Stack Overflow" width="19px" src="./resources/stack_overflow_logo.png?raw=true" />][stackoverlow]
+[<img align="middle" alt="AleksaMCode | LeetCode" title="LeetCode" width="35px" src="./resources/leetcode_logo.png?raw=true" />][leetcode]
+[<img align="middle" alt="AleksaMCode | Stack Overflow " title="Stack Overflow" width="18px" src="./resources/stack_overflow_logo.png?raw=true" />][stackoverlow]
 <br>
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 <div class="column">
 <div class="row">
 <img align="left" alt="C" title="C" width="26px" src="./resources/c_logo.png?raw=true" />
@@ -65,7 +65,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 </div>
 <br><br>
 
-### Certification:
+### 📜 Certification:
 <a href="https://drive.google.com/file/d/1BtbJXdu0yBsyvTv1dlHnLyIyihR4hz4R/view"><img align="left" alt="NSE1" title="NSE1" width="26px" src="./resources/NSE1-Certification.png?raw=true" /></a>
 <a href="https://drive.google.com/file/d/1zvGrx6D_MMOeskZ3q-G6QF83XL3JhPZT/view"><img align="left" alt="NSE2" title="NSE2" width="26px" src="./resources/NSE2-Certification.png?raw=true" /></a>
 <a href="https://drive.google.com/file/d/12fErCvVcz1Rxe2I1qmLj0CkyK68g0uja/view"><img align="left" alt="NSE3" title="NSE3" width="26px" src="./resources/NSE3-Certification.png?raw=true" /></a>
@@ -77,7 +77,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <a href="https://www.credly.com/badges/073ca710-8f94-4669-ad65-1fb73d9ef04b"><img align="left" alt="IBM Cybersecurity Fundamentals" title="IBM Cybersecurity Fundamentals" width="26px" src="./resources/ibm-cybersecurity-fundamentals.webp?raw=true" /></a>
 <a href="https://courses.yl-ptech.skillsnetwork.site/certificates/afdeb6169a014678accd04b912fdbab8"><img align="left" alt="IBM Blockchain Essentials" title="IBM Blockchain Essentials" width="26px" src="./resources/ibm-blockchain-essentials-v2.png?raw=true"/></a>
 <br><br>
-### Publications:
+### 🎓 Publications:
 #### English
 <ul>
 <li><a href="https://cds.cern.ch/record/2874956">CERN Digital Memory Platform CERNBox file(s) upload integration</a></li>
@@ -87,6 +87,16 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <ul>
 <li><a href="https://www.academia.edu/94404529/Analiza_M_M_c_sistema">Analiza M/M/c sistema</a> (Analysis of M/M/c systems)</li>
 </ul>
+
+### 👨🏻‍💻 Q&A:
+I also enjoy contributing to forums and websites like Stack Overflow. Here are some of the answers I've posted so far:
+ * [Producing the same ciphertext when encrypting with AES256-GCM both in Python and in C#](https://stackoverflow.com/a/75308977)
+ * [Calculating the time complexity of a recursive function using the Big O notation](https://stackoverflow.com/a/75300307)
+ * [Asymmetrical encryption of a password using an RSA public key in C#](https://stackoverflow.com/a/77549677)
+ * [Implementing Factory and Builder Design Patterns in Java](https://stackoverflow.com/a/75891917)
+ * [Symmetrical encryption of input data in Java](https://stackoverflow.com/a/75302791)
+
+> It ain't much, but it's honest work. 🤷‍♂️
 
 [twitter]: https://twitter.com/AleksaMCode
 [leetcode]: https://leetcode.com/aleksamcode
