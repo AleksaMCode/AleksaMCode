@@ -3,8 +3,7 @@
 ### Hi 👋
 I'm a Software Engineering student from Bosnia. Besides programming, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
-- 🔨 At the moment, I'm working on a steganography tool that will allow users to deploy a Canary trap.
-- 💻 Student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home)
+- 💻 Student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home).
 - 📚 Do you have a book recommendation? Send me a <a href="https://www.goodreads.com/aleksamcode">pm</a>.
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
 - 🔒 I'm passionate about cybersecurity.
@@ -105,4 +104,4 @@ I also enjoy contributing to forums and websites like Stack Overflow. Here are s
 [stackoverlow]: https://stackoverflow.com/users/9917714/aleksa-majkic
 
 <br><br>
-![Top Langs](https://github-readme-stats-4gbrsb1iy-aleksamcode.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats-aleksamcode.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=10&hide=TeX,HTML,PostScript,CSS)
