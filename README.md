@@ -104,4 +104,4 @@ I also enjoy contributing to forums and websites like Stack Overflow. Here are s
 [stackoverlow]: https://stackoverflow.com/users/9917714/aleksa-majkic
 
 <br><br>
-![Top Langs](https://github-readme-stats-aleksamcode.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=10&hide=TeX,HTML,PostScript,CSS)
+![Top Langs](https://github-readme-stats-g50p6v2g2-aleksamcode.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=10&hide=TeX,HTML,PostScript,CSS)
