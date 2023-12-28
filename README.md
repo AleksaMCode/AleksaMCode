@@ -11,9 +11,9 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 
 ### 🌐 Connect with me:
 [<img align="middle" alt="AleksaMCode | Twitter" title="Twitter" width="26px" src="./resources/twitter.svg?raw=true" />][twitter]
+[<img align="middle" alt="AleksaMCode | Stack Overflow " title="Stack Overflow" width="26px" src="./resources/stackoverflow.svg?raw=true" />][stackoverlow]
 [<img align="middle" alt="AleksaMCode | Hackerrank" title="Hackerank" width="26px" src="./resources/hackerrank.svg?raw=true" />][hackerrank]
 [<img align="middle" alt="AleksaMCode | LeetCode" title="LeetCode" width="26px" src="./resources/leetcode.svg?raw=true" />][leetcode]
-[<img align="middle" alt="AleksaMCode | Stack Overflow " title="Stack Overflow" width="26px" src="./resources/stackoverflow.svg?raw=true" />][stackoverlow]
 <br>
 
 ### 🛠️ Languages and Tools:
@@ -36,9 +36,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="26px" src="./resources/postgres.svg?raw=true" />
 <img align="left" alt="SQLite" title="SQLite" width="26px" src="./resources/sqlite.svg?raw=true" />
 <img align="left" alt="MSSQL" title="MSSQL" width="26px" src="./resources/mssql.svg?raw=true" />
-<img align="left" alt="Redis" title="Redis" width="26px" src="./resources/redis.svg?raw=true" />
 <img align="left" alt="Firebase" title="Firebase" width="26px" src="./resources/firebase.svg?raw=true" />
-<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="./resources/mongodb.svg?raw=true" />
 <br><br>
 </div>
 <div class="row">
@@ -58,6 +56,8 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <img align="left" alt="Docker" title="Docker" width="26px" src="./resources/docker.svg?raw=true" />
 <img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="26px" src="./resources/raspberrypi.svg?raw=true" />
 <img align="left" alt="Arduino" title="Arduino" width="26px" src="./resources/arduino.svg?raw=true" />
+<img align="left" alt="Redis" title="Redis" width="26px" src="./resources/redis.svg?raw=true" />
+<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="./resources/mongodb.svg?raw=true" />
 <br><br>
 </div>
 <div class="row">
