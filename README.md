@@ -79,6 +79,8 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <a href="https://www.credly.com/badges/8eb4ab97-5323-479e-af13-bb8ce12ccd67"><img align="left" hspace="1" alt="Fortinet Certified Fundamentals Cybersecurity" title="Fortinet Certified Fundamentals Cybersecurity" width="26px" src="./resources/Fortinet_Certified_Fundamentals_Cybersecurity-Certification.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/ba534370-bd58-4322-a068-2519cf0115ac"><img align="left" hspace="1" alt="CISCO Introduction to Cybersecurity" title="CISCO Introduction to Cybersecurity" width="26px" src="./resources/cisco-introduction-to-cybersecurity.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/43b75eb3-634f-47d7-9c51-5a7302378d76"><img align="left" hspace="1" alt="CISCO Endpoint Security" title="CISCO Endpoint Security" width="26px" src="./resources/cisco-endpoint-security.png?raw=true" /></a>
+<a href="https://www.credly.com/badges/d99e00dd-6c5d-42ca-a919-e7d61e128f1d"><img align="left" hspace="1" alt="CISCO Network Defense" title="CISCO Network Defense" width="26px" src="./resources/cisco-network-defense.png?raw=true" /></a>
+<a href="https://www.credly.com/badges/8ed3bbf4-1c41-47ec-a192-c329c3615320"><img align="left" hspace="1" alt="CISCO Cyber Threat Management" title="CISCO Cyber Threat Management" width="26px" src="./resources/cisco-cyber-threat-management.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/6a278b56-a106-44d3-87da-0e7257f5f600"><img align="left" hspace="1" alt="CISCO Networking Basics" title="CISCO Networking Basics" width="26px" src="./resources/cisco-networking-basics.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/d1f8a13e-fdae-4a16-b305-3872250aa4ae"><img align="left" hspace="1" alt="CISCO Introduction to IoT" title="CISCO Introduction to IoT" width="26px" src="./resources/cisco-introduction-to-IoT.png?raw=true" /></a>
 <a href="https://www.credly.com/badges/073ca710-8f94-4669-ad65-1fb73d9ef04b"><img align="left" hspace="1" alt="IBM Cybersecurity Fundamentals" title="IBM Cybersecurity Fundamentals" width="26px" src="./resources/ibm-cybersecurity-fundamentals.webp?raw=true" /></a>
@@ -95,15 +97,21 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <li><a href="https://www.academia.edu/94404529/Analiza_M_M_c_sistema">Analiza M/M/c sistema</a> (Analysis of M/M/c systems)</li>
 </ul>
 
+### 📰 Articles:
+* [Calculating the Matrix Inverse — Part 1](https://medium.com/@aleksamajkic/calculating-the-matrix-inverse-part-1-e848833bc662)
+
 ### 👨🏻‍💻 Q&A:
 I also enjoy contributing to forums and websites like Stack Overflow. Here are some of the answers I've posted so far:
  * [Producing the same ciphertext when encrypting with AES256-GCM both in Python and in C#](https://stackoverflow.com/a/75308977)
+ * [Constructing an RSA Public Key from Modulus (n) and Exponent (e) parameters in JavaScript](https://stackoverflow.com/a/77789646/9917714)
  * [Calculating the time complexity of a recursive function using the Big O notation](https://stackoverflow.com/a/75300307)
  * [Asymmetrical encryption of a password using an RSA public key in C#](https://stackoverflow.com/a/77549677)
  * [Implementing Factory and Builder Design Patterns in Java](https://stackoverflow.com/a/75891917)
- * [Symmetrical encryption of input data in Java](https://stackoverflow.com/a/75302791)
+ * [Symmetrical encryption of input data in Java](https://stackoverflow.com/a/75302791)  
+ * [Implementing RC4-drop[n] algorithm in C](https://stackoverflow.com/a/75540002)
 
 > It ain't much, but it's honest work. 🤷‍♂️
+
 
 [twitter]: https://twitter.com/AleksaMCode
 [leetcode]: https://leetcode.com/aleksamcode
