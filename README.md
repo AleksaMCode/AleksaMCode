@@ -86,8 +86,8 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <a href="https://www.credly.com/badges/073ca710-8f94-4669-ad65-1fb73d9ef04b"><img align="left" hspace="1" alt="IBM Cybersecurity Fundamentals" title="IBM Cybersecurity Fundamentals" width="26px" src="./resources/ibm-cybersecurity-fundamentals.webp?raw=true" /></a>
 <a href="https://courses.yl-ptech.skillsnetwork.site/certificates/afdeb6169a014678accd04b912fdbab8"><img align="left" hspace="1" alt="IBM Blockchain Essentials" title="IBM Blockchain Essentials" width="26px" src="./resources/ibm-blockchain-essentials-v2.png?raw=true"/></a>
 <a href="https://www.credly.com/badges/a0528272-0b38-469a-9cde-ad0b708e95ed/"><img align="left" hspace="1" alt="LFD121: Developing Secure Software" title="LFD121: Developing Secure Software" width="26px" src="./resources/lfd121.png?raw=true"/></a>
-<a href="https://www.credly.com/badges/dd63d4de-f435-496e-bbc2-112a586e52fd"><img align="center" hspace="0" alt="AWS Introduction to Cloud 101" title="AWS Introduction to Cloud 101" width="26px" src="./resources/aws-cloud-computing-101.png?raw=true"/></a>
-<a href="https://drive.google.com/file/d/11iU59xL28Q7rwdDmNNKrJUqMB5uvvi3D"><img align="center" hspace="0" alt="Security Blue Team Introduction to Threat Hunting" title="Security Blue Team Introduction to Threat Hunting" width="26px" src="./resources/security-blue-team.svg?raw=true"/></a>
+<a href="https://www.credly.com/badges/dd63d4de-f435-496e-bbc2-112a586e52fd"><img align="left" hspace="0" alt="AWS Introduction to Cloud 101" title="AWS Introduction to Cloud 101" width="28px" src="./resources/aws-cloud-computing-101.png?raw=true"/></a>
+<a href="https://drive.google.com/file/d/11iU59xL28Q7rwdDmNNKrJUqMB5uvvi3D"><img align="left" hspace="0" alt="Security Blue Team Introduction to Threat Hunting" title="Security Blue Team Introduction to Threat Hunting" width="35px" src="./resources/security-blue-team.svg?raw=true"/></a>
 <br><br>
 ### 🎓 Publications:
 #### English
