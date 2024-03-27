@@ -101,7 +101,8 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 </ul>
 
 ### 📰 Articles:
-* [Calculating the Matrix Inverse — Part 1](https://medium.com/@aleksamajkic/calculating-the-matrix-inverse-part-1-e848833bc662)
+* [Calculating the Matrix Inverse — Part 1](https://medium.com/p/e848833bc662)
+* [Malware analysis of an open-source project](https://medium.com/p/17e25c42f986)
 
 ### 👨🏻‍💻 Q&A:
 I also enjoy contributing to forums and websites like Stack Overflow. Here are some of the answers I've posted so far:
