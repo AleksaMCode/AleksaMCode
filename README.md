@@ -98,6 +98,8 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 #### Serbian
 <ul>
 <li><a href="https://www.academia.edu/94404529/Analiza_M_M_c_sistema">Analiza M/M/c sistema</a> (Analysis of M/M/c systems)</li>
+<li><a href="https://www.academia.edu/119935095/Sistemi_pla%C4%87anja_platnim_karticama_u_elektronskom_poslovanju">Sistemi plaćanja platnim karticama u elektronskom poslovanju</a> (On Payment Card E-Business Electronic Payment Systems)</li>
+
 </ul>
 
 ### 📰 Articles:
@@ -111,6 +113,7 @@ I also enjoy contributing to forums and websites like Stack Overflow. Here are s
  * [Calculating the time complexity of a recursive function using the Big O notation](https://stackoverflow.com/a/75300307)
  * [Asymmetrical encryption of a password using an RSA public key in C#](https://stackoverflow.com/a/77549677)
  * [Implementing Factory and Builder Design Patterns in Java](https://stackoverflow.com/a/75891917)
+ * [Finding a Basis for the Column Space of a Matrix](https://www.reddit.com/r/LinearAlgebra/comments/1bnrwh2/comment/kwkhspq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
  * [Symmetrical encryption of input data in Java](https://stackoverflow.com/a/75302791)  
  * [Implementing RC4-drop[n] algorithm in C](https://stackoverflow.com/a/75540002)
 
