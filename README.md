@@ -3,6 +3,7 @@
 ### Hi 👋
 I'm a Software Engineering student from Bosnia. Besides programming, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
+- 💻 I'm currently working on the [IMPACT](https://home.cern/news/announcement/cern/impact-tool-evolving) project, one Jira ticket at a time.
 - 👨‍💻 Student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home).
 - 📚 Do you have a book recommendation? Send me a <a href="https://www.goodreads.com/aleksamcode">pm</a>.
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
@@ -57,6 +58,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <img align="left" alt="Kali Linux" title="Kali Linux" width="26px" src="./resources/kali.svg?raw=true" />
 <img align="left" alt="NGINX " title="NGINX " width="26px" src="./resources/nginx.svg?raw=true" />
 <img align="left" alt="Docker" title="Docker" width="26px" src="./resources/docker.svg?raw=true" />
+<img align="left" alt="GitHub Actions" title="GitHub Actions" width="26px" src="./resources/github-actions.svg?raw=true" />
 <br><br>
 </div>
 <div class="row">
@@ -76,6 +78,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <img align="left" alt="Latex" title="Latex" width="26px" src="./resources/latex.svg?raw=true" />
 <img align="left" alt="Notion" title="Notion" width="26px" src="./resources/notion.svg?raw=true" />
 <img align="left" alt="Obsidian" title="Obsidian" width="26px" src="./resources/obsidian.svg?raw=true" />
+<img align="left" alt="Jira" title="Jira" width="26px" src="./resources/jira.svg?raw=true" />
 </div>
 </div>
 <br><br>
