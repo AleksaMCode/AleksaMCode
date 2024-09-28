@@ -4,7 +4,6 @@
 I'm a Software Engineering student from Bosnia. Besides programming, I enjoy filmmaking and eating junk food. I also have a [food blog 🍕🍪][aleksavscalories].
 
 - 💻 I'm currently working on the [IMPACT](https://home.cern/news/announcement/cern/impact-tool-evolving) project, one Jira ticket at a time.
-- 👨‍💻 Student at the [Faculty of Electrical Engineering Banja Luka](https://etf.unibl.org/index.php/en/home).
 - 📚 Do you have a book recommendation? Send me a <a href="https://www.goodreads.com/aleksamcode">pm</a>.
 - <img width="20px" src="./resources/flash-cards.png?raw=true" />&nbsp;Recently I find myself using <i>Anki</i> on a daily basis.
 - 🔒 Passionate about all things security.
