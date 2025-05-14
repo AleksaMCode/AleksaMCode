@@ -102,7 +102,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 ### 🎓 Publications:
 #### English
 <ul>
-<li><a href="https://cds.cern.ch/record/2874956">CERN Digital Memory Platform CERNBox file(s) upload integration</a></li>
+<li><a href="https://repository.cern/records/8qmgj-81989/preview/CERN%20Digital%20Memory%20Platform%20CERNBox%20files%20upload%20integration%20(1).pdf">CERN Digital Memory Platform CERNBox file(s) upload integration</a></li>
 </ul>
 
 #### Serbian
