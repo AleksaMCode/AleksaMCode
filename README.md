@@ -99,23 +99,25 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 <a href="https://www.credly.com/badges/dd63d4de-f435-496e-bbc2-112a586e52fd"><img align="left" hspace="0" alt="AWS Introduction to Cloud 101" title="AWS Introduction to Cloud 101" width="28px" src="./resources/aws-cloud-computing-101.png?raw=true"/></a>
 <a href="https://drive.google.com/file/d/11iU59xL28Q7rwdDmNNKrJUqMB5uvvi3D"><img align="left" hspace="0" alt="Security Blue Team Introduction to Threat Hunting" title="Security Blue Team Introduction to Threat Hunting" width="35px" src="./resources/security-blue-team.svg?raw=true"/></a>
 <br><br>
-### 🎓 Publications:
+
+### 📰 Articles:
+* [Calculating the Matrix Inverse — Part 1](https://medium.com/p/e848833bc662)
+* [Malware analysis of an open-source project](https://medium.com/p/17e25c42f986)
+* [An overview of frequently overlooked vulnerability](https://medium.com/p/163dabb7f89f)
+
+### 🎓 Other work:
 #### English
 <ul>
 <li><a href="https://repository.cern/records/8qmgj-81989/preview/CERN%20Digital%20Memory%20Platform%20CERNBox%20files%20upload%20integration%20(1).pdf">CERN Digital Memory Platform CERNBox file(s) upload integration</a></li>
+<li><a href="https://meow.elettra.eu/81/pdf/THPB035.pdf">Upgrading the IMPACT Application for Enhanced Risk Declaration and Approval Processes at CERN</a></li>
+<li><a href="https://drive.google.com/file/d/1pYm6buyRmGwN5MY7c8_tj93C0iddurI3/view?usp=sharing">Privacy Protection in Wi-Fi Networks - scope of work</a></li>
 </ul>
 
 #### Serbian
 <ul>
 <li><a href="https://www.academia.edu/94404529/Analiza_M_M_c_sistema">Analiza M/M/c sistema</a> (Analysis of M/M/c systems)</li>
 <li><a href="https://www.academia.edu/119935095/Sistemi_pla%C4%87anja_platnim_karticama_u_elektronskom_poslovanju">Sistemi plaćanja platnim karticama u elektronskom poslovanju</a> (On Payment Card E-Business Electronic Payment Systems)</li>
-
 </ul>
-
-### 📰 Articles:
-* [Calculating the Matrix Inverse — Part 1](https://medium.com/p/e848833bc662)
-* [Malware analysis of an open-source project](https://medium.com/p/17e25c42f986)
-* [An overview of frequently overlooked vulnerability](https://medium.com/p/163dabb7f89f)
 
 ### 👨🏻‍💻 Q&A:
 I also enjoy contributing to forums and websites like Stack Overflow. Here are some of the answers I've posted so far:
