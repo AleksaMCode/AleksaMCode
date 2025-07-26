@@ -104,6 +104,7 @@ I'm a Software Engineering student from Bosnia. Besides programming, I enjoy fil
 * [Calculating the Matrix Inverse — Part 1](https://medium.com/p/e848833bc662)
 * [Malware analysis of an open-source project](https://medium.com/p/17e25c42f986)
 * [An overview of frequently overlooked vulnerability](https://medium.com/p/163dabb7f89f)
+* [A short overview of masking sensitive data in log files](https://medium.com/p/357e341c13e7)
 
 ### 🎓 Other work:
 #### English
