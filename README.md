@@ -106,6 +106,7 @@ I'm a Software Developer from Bosnia. Besides programming, I enjoy filmmaking an
 * [Malware analysis of an open-source project](https://medium.com/p/17e25c42f986)
 * [An overview of frequently overlooked vulnerability](https://medium.com/p/163dabb7f89f)
 * [A short overview of masking sensitive data in log files](https://medium.com/p/357e341c13e7)
+* [Creating objects using Fluent Builder Design Pattern](https://medium.com/p/64d655c5476b)
 
 ### 🎓 Other work:
 #### English
