@@ -27,6 +27,7 @@ I'm a Software Developer from Bosnia. Besides programming, I enjoy filmmaking an
 <img align="left" title="NASM" width="26px" src="./resources/asm.svg?raw=true" />
 <img align="left" alt="PowerShell" title="PowerShell" width="26px" src="./resources/powershell.svg?raw=true" />
 <img align="left" alt="Python" title="Python" width="26px" src="./resources/python.svg?raw=true" />
+<img align="left" alt="Go" title="Go" width="26px" src="./resources/golang.svg?raw=true" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="./resources/javascript.svg?raw=true" />
 <img align="left" alt="TypeScript" title="TypeScript" width="26px" src="./resources/typescript.svg?raw=true" />
 <img align="left" alt="FastAPI" title="FastAPI" width="26px" src="./resources/fastapi.svg?raw=true" />
@@ -36,11 +37,13 @@ I'm a Software Developer from Bosnia. Besides programming, I enjoy filmmaking an
 <img align="left" alt="React" title="React" width="26px" src="./resources/react.svg?raw=true" />
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="./resources/mysql.svg?raw=true" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="26px" src="./resources/postgres.svg?raw=true" />
-<img align="left" alt="MSSQL" title="MSSQL" width="26px" src="./resources/mssql.svg?raw=true" />
 <br><br>
 </div>
 <div class="row">
+<img align="left" alt="MSSQL" title="MSSQL" width="26px" src="./resources/mssql.svg?raw=true" />
 <img align="left" alt="SQLite" title="SQLite" width="26px" src="./resources/sqlite.svg?raw=true" />
+<img align="left" alt="SQLAlchemy " title="SQLAlchemy" width="26px" src="./resources/sqlalchemy.svg?raw=true" />
+<img align="left" alt="Hibernate" title="Hibernate" width="26px" src="./resources/hibernate.svg?raw=true" />
 <img align="left" alt="Liquibase" title="Liquibase" width="26px" src="./resources/liquibase.svg?raw=true" />
 <img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="./resources/visualstudio.svg?raw=true" />
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="./resources/vscode.svg?raw=true" />
@@ -50,24 +53,37 @@ I'm a Software Developer from Bosnia. Besides programming, I enjoy filmmaking an
 <img align="left" alt="Wireshark" title="Wireshark" width="26px" src="./resources/wireshark.svg?raw=true" /> 
 <img align="left" alt="GNS3" title="GNS3" width="26px" src="./resources/gns3.svg?raw=true" /> 
 <img align="left" alt="Eve-ng" title="Eve-ng" width="26px" src="./resources/eveng.png?raw=true" />
+<img align="left" alt="pytest" title="pytest" width="26px" src="./resources/pytest.svg?raw=true" />
+<img align="left" alt="JUnit5" title="JUnit5" width="26px" src="./resources/junit.svg?raw=true" />
+<img align="left" alt="selenium" title="selenium" width="26px" src="./resources/selenium.svg?raw=true" />
 <img align="left" alt="Postman" title="Postman" width="26px" src="./resources/postman.svg?raw=true" />
 <img align="left" alt="Insomnia" title="Insomnia" width="26px" src="./resources/insomnia.svg?raw=true" />
+<br><br>
+</div>
+<div class="row">
 <img align="left" alt="Ghidra" title="Ghidra" width="26px" src="./resources/ghidra.png?raw=true" />
 <img align="left" alt="Linux" title="Linux" width="26px" src="./resources/linux.svg?raw=true" />
 <img align="left" alt="Kali Linux" title="Kali Linux" width="26px" src="./resources/kali.svg?raw=true" />
+<img align="left" alt="Ubuntu" title="Ubuntu" width="26px" src="./resources/ubuntu.svg?raw=true" />
+<img align="left" alt="Manjaro" title="Manjaro" width="26px" src="./resources/manjaro.svg?raw=true" />
+<img align="left" alt="Mint" title="Mint" width="26px" src="./resources/mint.svg?raw=true" />
 <img align="left" alt="NGINX " title="NGINX " width="26px" src="./resources/nginx.svg?raw=true" />
 <img align="left" alt="Docker" title="Docker" width="26px" src="./resources/docker.svg?raw=true" />
+<img align="left" alt="Portainer" title="Portainer" width="26px" src="./resources/portainer.svg?raw=true" />
 <img align="left" alt="GitHub Actions" title="GitHub Actions" width="26px" src="./resources/github-actions.svg?raw=true" />
+<img align="left" alt="Cloudflare" title="Cloudflare" width="26px" src="./resources/cloudflare.svg?raw=true" />
+<img align="left" alt="AWS S3" title="AWS S3" width="26px" src="./resources/s3.svg?raw=true" />
+<img align="left" alt="GCP" title="GCP" width="26px" src="./resources/gcp.svg?raw=true" />
+<img align="left" alt="Firebase" title="Firebase" width="26px" src="./resources/firebase.svg?raw=true" />
+<img align="left" alt="Redis" title="Redis" width="26px" src="./resources/redis.svg?raw=true" />
+<img align="left" alt="RabbitMQ" title="RabbitMQ" width="26px" src="./resources/rabbitmq.svg?raw=true" />
+<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="./resources/mongodb.svg?raw=true" />
 <br><br>
 </div>
 <div class="row">
 <img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="26px" src="./resources/raspberrypi.svg?raw=true" />
 <img align="left" alt="Arduino" title="Arduino" width="26px" src="./resources/arduino.svg?raw=true" />
 <img align="left" alt="MQTT" title="MQTT" width="26px" src="./resources/mqtt.svg?raw=true" />
-<img align="left" alt="Firebase" title="Firebase" width="26px" src="./resources/firebase.svg?raw=true" />
-<img align="left" alt="Redis" title="Redis" width="26px" src="./resources/redis.svg?raw=true" />
-<img align="left" alt="RabbitMQ" title="RabbitMQ" width="26px" src="./resources/rabbitmq.svg?raw=true" />
-<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="./resources/mongodb.svg?raw=true" />
 <img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="26px" src="./resources/ps.svg?raw=true" />
 <img align="left" alt="Adobe Lightroom" title="Adobe Lightroom" width="26px" src="./resources/lr.svg?raw=true" />
 <img align="left" alt="Adobe After Effects" title="Adobe After Effects" width="26px" src="./resources/ae.svg?raw=true" />
@@ -78,6 +94,7 @@ I'm a Software Developer from Bosnia. Besides programming, I enjoy filmmaking an
 <img align="left" alt="Notion" title="Notion" width="26px" src="./resources/notion.svg?raw=true" />
 <img align="left" alt="Obsidian" title="Obsidian" width="26px" src="./resources/obsidian.svg?raw=true" />
 <img align="left" alt="Jira" title="Jira" width="26px" src="./resources/jira.svg?raw=true" />
+<img align="left" alt="Slack" title="Slack" width="26px" src="./resources/slack.svg?raw=true" />
 </div>
 </div>
 <br><br>
@@ -143,4 +160,4 @@ I also enjoy contributing to forums and websites like Stack Overflow. Here are s
 [stackoverlow]: https://stackoverflow.com/users/9917714/aleksa-majkic
 
 <br><br>
-![Top Langs](https://github-readme-stats-g50p6v2g2-aleksamcode.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=10&hide=TeX,HTML,PostScript,CSS)
+![Top Langs](https://github-readme-stats-g50p6v2g2-aleksamcode.vercel.app/api/top-langs/?username=aleksamcode&layout=compact&langs_count=12&hide=TeX,HTML,PostScript,CSS,PLpgSQL,Mako,Dockerfile)
